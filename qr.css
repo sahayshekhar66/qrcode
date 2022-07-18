@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.qr{
+    height: 400px;
+    width: 250px;
+    background-color: azure;
+    position: absolute;
+    left: 650px;
+    top: 150px;
+    
+
+}
+.code{
+    width: 85%;
+    margin-top: 20px;
+    margin-left: 18.5px;
+    margin-right: 17px;
+}
+.part{
+    font-size: 1rem;
+}
+.part1{
+    font-size: 1.30rem;
+}
